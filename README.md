@@ -1,39 +1,40 @@
-# Привіт! 👋, NeoByteXx тут  
-![Відвідувач](https://visitor-badge.laobi.icu/badge?page_id=NeoByteXx.repoName) [![GitHub Followers](https://img.shields.io/github/followers/NeoByteXx?style=social)](https://github.com/NeoByteXx?tab=followers)
+# Hey there! 👋 NeoByteXx here  
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NeoByteXx.repoName) [![GitHub Followers](https://img.shields.io/github/followers/NeoByteXx?style=social)](https://github.com/NeoByteXx?tab=followers)
 
-<img align="right" width="300px" alt="NeoByteXx Anime Avatar" src="https://i.pinimg.com/originals/b3/e0/2a/b3e02ad78119576e8d4378b3cd2b5ec6.gif" />
+<img align="right" width="300px" alt="NeoByteXx Anime Avatar" src="https://i.ibb.co/G0rG8Yb/anime-avatar-example.png" />
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px">&nbsp;***Про мене***
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px">&nbsp;***About Me***
 
-🧠 Програміст із душею дослідника. Люблю кодити так, ніби це фентезі-пригода.  
-🌌 Основні напрямки:
-- **Мови:** JavaScript, Python, TypeScript, Kotlin  
-- **Інтереси:** Frontend, Mobile Apps, Game Dev, UI/UX дизайн  
-- **Зараз вивчаю:** Three.js, Unreal Engine та Solidity
+🧠 A dev with a wizard's heart. I code like it's a fantasy quest.  
+🌌 My main directions:
+- **Languages:** JavaScript, Python, TypeScript, Kotlin  
+- **Interests:** Frontend, Mobile Apps, Game Dev, UI/UX design  
+- **Currently Learning:** Three.js, Unreal Engine & Solidity
 
-📌 Мої хобі:
-- 🎨 Аніме-арт і digital painting  
-- 📚 Наукова фантастика та психологія  
-- 🎧 Музика, яка заряджає кодом  
-- 🌌 Трохи геймера, трохи мага клавіатури
+🎯 **My Passions:**
+- 🎨 Anime-style art and digital painting  
+- 📚 Sci-fi and psychology  
+- 🎧 Music that powers my code  
+- 🎮 Half gamer, half keyboard mage
 
-📫 Зв'язатись можна через: [neobytexx.dev@gmail.com](mailto:neobytexx.dev@gmail.com)
+📫 Reach me at: [neobytexx.dev@gmail.com](mailto:neobytexx.dev@gmail.com)
 
 ---
 
-### 🌀 Мій аніме-аватар
-
-> У кожного GitHub-мага має бути персонаж.  
-> Ось мій — **електро-магічний герой** з синьою аурою,  
-> готовий боротися з багами й темною документацією! ⚡
+## ⚡️ My Anime Avatar: The GitHub Hero
 
 <p align="center">
-  <img src="https://i.ibb.co/G0rG8Yb/anime-avatar-example.png" width="220px"/>
+  <img src="https://i.ibb.co/G0rG8Yb/anime-avatar-example.png" width="260px" alt="NeoByteXx Hero Avatar"/>
 </p>
+
+> 🔮 **This isn’t just a picture — it’s my digital alter ego.**  
+> ⚡ I’m an electro-mage in the world of code.  
+> 💻 I fight bugs, protect UI, and tame rogue APIs.  
+> 🌌 “Every commit is a spell. Every project, a battleground.”
 
 ---
 
-## 🔥 GitHub Статистика
+## 🔥 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoByteXx&theme=blueberry" alt="GitHub Streak"/>
@@ -45,9 +46,11 @@
 
 ---
 
-### 🌐 Підпис під аурою:
-> “Код — це магія в сучасному світі. Я лише закликаю правильні закляття.” 🧙‍♂️
+## 🧙‍♂️ Digital Spellbook
+
+> “Code is magic in a digital age.  
+> I’m just casting the right spells — one commit at a time.”
 
 ---
 
-📅 *Оновлено: 23/04/2025*  
+📅 *Updated: 23/04/2025*  
